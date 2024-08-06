@@ -1,0 +1,10 @@
+C:\Users\nazar\OneDrive\Escritorio\GitHubCano\Tp10-NazarenoAlvarez\Tp10-Ejercicio1\Tp10-Ejercicio1\bin\Debug\Tp10-Ejercicio1.exe.config
+C:\Users\nazar\OneDrive\Escritorio\GitHubCano\Tp10-NazarenoAlvarez\Tp10-Ejercicio1\Tp10-Ejercicio1\bin\Debug\Tp10-Ejercicio1.exe
+C:\Users\nazar\OneDrive\Escritorio\GitHubCano\Tp10-NazarenoAlvarez\Tp10-Ejercicio1\Tp10-Ejercicio1\bin\Debug\Tp10-Ejercicio1.pdb
+C:\Users\nazar\OneDrive\Escritorio\GitHubCano\Tp10-NazarenoAlvarez\Tp10-Ejercicio1\Tp10-Ejercicio1\obj\Debug\Tp10-Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\nazar\OneDrive\Escritorio\GitHubCano\Tp10-NazarenoAlvarez\Tp10-Ejercicio1\Tp10-Ejercicio1\obj\Debug\Tp10_Ejercicio1.Form1.resources
+C:\Users\nazar\OneDrive\Escritorio\GitHubCano\Tp10-NazarenoAlvarez\Tp10-Ejercicio1\Tp10-Ejercicio1\obj\Debug\Tp10_Ejercicio1.Properties.Resources.resources
+C:\Users\nazar\OneDrive\Escritorio\GitHubCano\Tp10-NazarenoAlvarez\Tp10-Ejercicio1\Tp10-Ejercicio1\obj\Debug\Tp10-Ejercicio1.csproj.GenerateResource.cache
+C:\Users\nazar\OneDrive\Escritorio\GitHubCano\Tp10-NazarenoAlvarez\Tp10-Ejercicio1\Tp10-Ejercicio1\obj\Debug\Tp10-Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\nazar\OneDrive\Escritorio\GitHubCano\Tp10-NazarenoAlvarez\Tp10-Ejercicio1\Tp10-Ejercicio1\obj\Debug\Tp10-Ejercicio1.exe
+C:\Users\nazar\OneDrive\Escritorio\GitHubCano\Tp10-NazarenoAlvarez\Tp10-Ejercicio1\Tp10-Ejercicio1\obj\Debug\Tp10-Ejercicio1.pdb
